@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          sup
+          Print QR Codes
         </q-toolbar-title>
 
         <div>Quasar v{{ $q.version }}</div>
